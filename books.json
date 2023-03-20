@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Akik kétszer halnak meg",
+      "writer": "Jókai Mór"
+    },
+    {
+      "id": 2,
+      "title": "Az apja fia",
+      "writer": "Jókai Mór"
+    },
+    {
+      "id": 3,
+      "title": "Bálványos-vár",
+      "writer": "Jókai Mór"
+    },
+    {
+      "id": 4,
+      "title": "A tizennégy karátos autó",
+      "writer": "Rejtő Jenő"
+    },
+    {
+      "id": 5,
+      "title": "Az előretolt helyőrség",
+      "writer": "Rejtő Jenő"
+    },
+    {
+      "id": 6,
+      "title": "A boszorkánymester",
+      "writer": "Rejtő Jenő"
+    },
+    {
+      "id": 7,
+      "title": "Advent",
+      "writer": "Füst Milán"
+    },
+    {
+      "id": 8,
+      "title": "A rejtelmes sziget",
+      "writer": "Jules Verne"
+    }
+  ]
+}
